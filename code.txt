@@ -1,0 +1,9 @@
+inicio
+
+    numero num = 10;
+
+    se (num > 6) {
+        imprimir("Número maior que dez.");
+    }
+
+fim
